@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 🦠 CovidStats
-Little golang script to understand how go works
+⚡ Little Golang code to understand how go works
 
 </div>
 
