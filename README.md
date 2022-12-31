@@ -7,4 +7,5 @@
 
 ## 🎧 Installation 
 1. Clone the repository
-2. Run `go run main.go`
+2. Run `go build .`
+3. Move the created file in the `/usr/local/bin` folder.

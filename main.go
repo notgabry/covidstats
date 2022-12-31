@@ -43,6 +43,7 @@ func main() {
 |_ %v %s
 |
 |_ %v %s
+
 `, color.HiGreenString("Check out"), color.HiBlueString("Covid-19 in Italy"), color.HiWhiteString("Positives"), color.YellowString(fmt.Sprint(Comma(int64(positives)))), color.HiWhiteString("Isolated"), color.YellowString(fmt.Sprint(Comma(int64(isolation)))))
 }
 
